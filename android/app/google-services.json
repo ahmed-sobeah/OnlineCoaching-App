@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739087211490",
+    "project_id": "onlinecoaching-e180a",
+    "storage_bucket": "onlinecoaching-e180a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739087211490:android:a33296411b9973861ff7bb",
+        "android_client_info": {
+          "package_name": "com.example.ali_nasser_online_coaching_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJGiMOnIYQITbA3jWVNxjM7W4UrrV_yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
