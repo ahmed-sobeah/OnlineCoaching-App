@@ -8,7 +8,10 @@ class UserDm{
   int height;
   double weight;
   bool gender;
-  UserDm({required this.id, required this.fullName,required this.email, required this.age, required this.height, required this.weight, required this.gender});
+  int? cal;
+  int? protein;
+  int? fats;
+  UserDm({required this.id, required this.fullName,required this.email, required this.age, required this.height, required this.weight, required this.gender,this.cal,this.protein, this.fats});
   Map<String, dynamic> toFireStore()=>
       {
         'id' : id,
@@ -18,6 +21,9 @@ class UserDm{
         'height':height,
         'weight':weight,
         'gender': gender,
+        'cal' : cal,
+        'protein' : protein,
+        'fats':fats,
       };
   UserDm.fromFireStore(Map<String,dynamic> data): this(
     id: data['id'],
@@ -27,5 +33,8 @@ class UserDm{
     height: data['height'],
     weight: data['weight'],
     gender: data['gender'],
+    cal: data['cal'],
+    protein: data['protein'],
+    fats: data['fats']
   );
 }
