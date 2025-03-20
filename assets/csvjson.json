@@ -1,0 +1,1686 @@
+{
+"foodList":[
+  {
+    "Food": "Rice",
+    "Calories (kcal)": 130,
+    "Protein (g)": 2.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pasta",
+    "Calories (kcal)": 157,
+    "Protein (g)": 5.8,
+    "Fats (g)": 0.9
+  },
+  {
+    "Food": "Bread",
+    "Calories (kcal)": 265,
+    "Protein (g)": 9,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Oats",
+    "Calories (kcal)": 389,
+    "Protein (g)": 16.9,
+    "Fats (g)": 6.9
+  },
+  {
+    "Food": "Quinoa",
+    "Calories (kcal)": 120,
+    "Protein (g)": 4.1,
+    "Fats (g)": 1.9
+  },
+  {
+    "Food": "Sweet Potato",
+    "Calories (kcal)": 86,
+    "Protein (g)": 1.6,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Potato",
+    "Calories (kcal)": 77,
+    "Protein (g)": 2,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Corn",
+    "Calories (kcal)": 96,
+    "Protein (g)": 3.4,
+    "Fats (g)": 1.5
+  },
+  {
+    "Food": "Lentils",
+    "Calories (kcal)": 116,
+    "Protein (g)": 9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Chickpeas",
+    "Calories (kcal)": 164,
+    "Protein (g)": 8.9,
+    "Fats (g)": 2.6
+  },
+  {
+    "Food": "Spinach",
+    "Calories (kcal)": 23,
+    "Protein (g)": 2.9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Broccoli",
+    "Calories (kcal)": 55,
+    "Protein (g)": 3.7,
+    "Fats (g)": 0.6
+  },
+  {
+    "Food": "Carrot",
+    "Calories (kcal)": 41,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Cucumber",
+    "Calories (kcal)": 15,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Tomato",
+    "Calories (kcal)": 18,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Pepper",
+    "Calories (kcal)": 31,
+    "Protein (g)": 1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Cabbage",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.3,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Cauliflower",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Mushrooms",
+    "Calories (kcal)": 22,
+    "Protein (g)": 3.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Eggplant",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Apple",
+    "Calories (kcal)": 52,
+    "Protein (g)": 0.3,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Banana",
+    "Calories (kcal)": 89,
+    "Protein (g)": 1.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Orange",
+    "Calories (kcal)": 47,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Strawberry",
+    "Calories (kcal)": 32,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Grapes",
+    "Calories (kcal)": 69,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Mango",
+    "Calories (kcal)": 60,
+    "Protein (g)": 0.8,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Pineapple",
+    "Calories (kcal)": 50,
+    "Protein (g)": 0.5,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Watermelon",
+    "Calories (kcal)": 30,
+    "Protein (g)": 0.6,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Peach",
+    "Calories (kcal)": 39,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pear",
+    "Calories (kcal)": 57,
+    "Protein (g)": 0.4,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Beef",
+    "Calories (kcal)": 250,
+    "Protein (g)": 26,
+    "Fats (g)": 17
+  },
+  {
+    "Food": "Lamb",
+    "Calories (kcal)": 294,
+    "Protein (g)": 25.6,
+    "Fats (g)": 21.4
+  },
+  {
+    "Food": "Turkey",
+    "Calories (kcal)": 189,
+    "Protein (g)": 29,
+    "Fats (g)": 7
+  },
+  {
+    "Food": "Duck",
+    "Calories (kcal)": 337,
+    "Protein (g)": 27,
+    "Fats (g)": 28
+  },
+  {
+    "Food": "Venison",
+    "Calories (kcal)": 158,
+    "Protein (g)": 30.2,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Goat",
+    "Calories (kcal)": 143,
+    "Protein (g)": 27,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Rabbit",
+    "Calories (kcal)": 173,
+    "Protein (g)": 33,
+    "Fats (g)": 3.5
+  },
+  {
+    "Food": "Bison",
+    "Calories (kcal)": 146,
+    "Protein (g)": 28.4,
+    "Fats (g)": 2.4
+  },
+  {
+    "Food": "Buffalo",
+    "Calories (kcal)": 99,
+    "Protein (g)": 21,
+    "Fats (g)": 1.8
+  },
+  {
+    "Food": "Chicken Breast",
+    "Calories (kcal)": 165,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Chicken Thigh",
+    "Calories (kcal)": 209,
+    "Protein (g)": 26,
+    "Fats (g)": 10
+  },
+  {
+    "Food": "Chicken Wings",
+    "Calories (kcal)": 203,
+    "Protein (g)": 30,
+    "Fats (g)": 8.1
+  },
+  {
+    "Food": "Chicken Drumstick",
+    "Calories (kcal)": 177,
+    "Protein (g)": 27,
+    "Fats (g)": 7.5
+  },
+  {
+    "Food": "Chicken Liver",
+    "Calories (kcal)": 136,
+    "Protein (g)": 21.4,
+    "Fats (g)": 4.8
+  },
+  {
+    "Food": "Chicken Gizzard",
+    "Calories (kcal)": 94,
+    "Protein (g)": 18,
+    "Fats (g)": 2.1
+  },
+  {
+    "Food": "Chicken Skin",
+    "Calories (kcal)": 454,
+    "Protein (g)": 9,
+    "Fats (g)": 40
+  },
+  {
+    "Food": "Roast Chicken",
+    "Calories (kcal)": 239,
+    "Protein (g)": 27.3,
+    "Fats (g)": 13.6
+  },
+  {
+    "Food": "Grilled Chicken",
+    "Calories (kcal)": 172,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Fried Chicken",
+    "Calories (kcal)": 290,
+    "Protein (g)": 26,
+    "Fats (g)": 15
+  },
+  {
+    "Food": "Salmon",
+    "Calories (kcal)": 208,
+    "Protein (g)": 20,
+    "Fats (g)": 13
+  },
+  {
+    "Food": "Tuna",
+    "Calories (kcal)": 144,
+    "Protein (g)": 23,
+    "Fats (g)": 4.9
+  },
+  {
+    "Food": "Cod",
+    "Calories (kcal)": 82,
+    "Protein (g)": 18,
+    "Fats (g)": 0.7
+  },
+  {
+    "Food": "Tilapia",
+    "Calories (kcal)": 96,
+    "Protein (g)": 20,
+    "Fats (g)": 2
+  },
+  {
+    "Food": "Trout",
+    "Calories (kcal)": 168,
+    "Protein (g)": 22,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Sardines",
+    "Calories (kcal)": 208,
+    "Protein (g)": 25,
+    "Fats (g)": 11
+  },
+  {
+    "Food": "Mackerel",
+    "Calories (kcal)": 205,
+    "Protein (g)": 19,
+    "Fats (g)": 13.9
+  },
+  {
+    "Food": "Herring",
+    "Calories (kcal)": 158,
+    "Protein (g)": 18,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Halibut",
+    "Calories (kcal)": 111,
+    "Protein (g)": 22,
+    "Fats (g)": 2.3
+  },
+  {
+    "Food": "Catfish",
+    "Calories (kcal)": 105,
+    "Protein (g)": 18,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Bread",
+    "Calories (kcal)": 265,
+    "Protein (g)": 9,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Oats",
+    "Calories (kcal)": 389,
+    "Protein (g)": 16.9,
+    "Fats (g)": 6.9
+  },
+  {
+    "Food": "Quinoa",
+    "Calories (kcal)": 120,
+    "Protein (g)": 4.1,
+    "Fats (g)": 1.9
+  },
+  {
+    "Food": "Lentils",
+    "Calories (kcal)": 116,
+    "Protein (g)": 9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Chickpeas",
+    "Calories (kcal)": 164,
+    "Protein (g)": 8.9,
+    "Fats (g)": 2.6
+  },
+  {
+    "Food": "Spinach",
+    "Calories (kcal)": 23,
+    "Protein (g)": 2.9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Broccoli",
+    "Calories (kcal)": 55,
+    "Protein (g)": 3.7,
+    "Fats (g)": 0.6
+  },
+  {
+    "Food": "Carrot",
+    "Calories (kcal)": 41,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Cucumber",
+    "Calories (kcal)": 15,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Tomato",
+    "Calories (kcal)": 18,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Pepper",
+    "Calories (kcal)": 31,
+    "Protein (g)": 1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Cabbage",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.3,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Cauliflower",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Mushrooms",
+    "Calories (kcal)": 22,
+    "Protein (g)": 3.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Eggplant",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Apple",
+    "Calories (kcal)": 52,
+    "Protein (g)": 0.3,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Banana",
+    "Calories (kcal)": 89,
+    "Protein (g)": 1.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Orange",
+    "Calories (kcal)": 47,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Strawberry",
+    "Calories (kcal)": 32,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Grapes",
+    "Calories (kcal)": 69,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Mango",
+    "Calories (kcal)": 60,
+    "Protein (g)": 0.8,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Pineapple",
+    "Calories (kcal)": 50,
+    "Protein (g)": 0.5,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Watermelon",
+    "Calories (kcal)": 30,
+    "Protein (g)": 0.6,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Peach",
+    "Calories (kcal)": 39,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pear",
+    "Calories (kcal)": 57,
+    "Protein (g)": 0.4,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Beef",
+    "Calories (kcal)": 250,
+    "Protein (g)": 26,
+    "Fats (g)": 17
+  },
+  {
+    "Food": "Pork",
+    "Calories (kcal)": 242,
+    "Protein (g)": 27,
+    "Fats (g)": 14
+  },
+  {
+    "Food": "Lamb",
+    "Calories (kcal)": 294,
+    "Protein (g)": 25.6,
+    "Fats (g)": 21.4
+  },
+  {
+    "Food": "Turkey",
+    "Calories (kcal)": 189,
+    "Protein (g)": 29,
+    "Fats (g)": 7
+  },
+  {
+    "Food": "Duck",
+    "Calories (kcal)": 337,
+    "Protein (g)": 27,
+    "Fats (g)": 28
+  },
+  {
+    "Food": "Venison",
+    "Calories (kcal)": 158,
+    "Protein (g)": 30.2,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Goat",
+    "Calories (kcal)": 143,
+    "Protein (g)": 27,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Rabbit",
+    "Calories (kcal)": 173,
+    "Protein (g)": 33,
+    "Fats (g)": 3.5
+  },
+  {
+    "Food": "Bison",
+    "Calories (kcal)": 146,
+    "Protein (g)": 28.4,
+    "Fats (g)": 2.4
+  },
+  {
+    "Food": "Buffalo",
+    "Calories (kcal)": 99,
+    "Protein (g)": 21,
+    "Fats (g)": 1.8
+  },
+  {
+    "Food": "Chicken Breast",
+    "Calories (kcal)": 165,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Chicken Thigh",
+    "Calories (kcal)": 209,
+    "Protein (g)": 26,
+    "Fats (g)": 10
+  },
+  {
+    "Food": "Chicken Wings",
+    "Calories (kcal)": 203,
+    "Protein (g)": 30,
+    "Fats (g)": 8.1
+  },
+  {
+    "Food": "Chicken Drumstick",
+    "Calories (kcal)": 177,
+    "Protein (g)": 27,
+    "Fats (g)": 7.5
+  },
+  {
+    "Food": "Chicken Liver",
+    "Calories (kcal)": 136,
+    "Protein (g)": 21.4,
+    "Fats (g)": 4.8
+  },
+  {
+    "Food": "Chicken Gizzard",
+    "Calories (kcal)": 94,
+    "Protein (g)": 18,
+    "Fats (g)": 2.1
+  },
+  {
+    "Food": "Chicken Skin",
+    "Calories (kcal)": 454,
+    "Protein (g)": 9,
+    "Fats (g)": 40
+  },
+  {
+    "Food": "Roast Chicken",
+    "Calories (kcal)": 239,
+    "Protein (g)": 27.3,
+    "Fats (g)": 13.6
+  },
+  {
+    "Food": "Grilled Chicken",
+    "Calories (kcal)": 172,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Fried Chicken",
+    "Calories (kcal)": 290,
+    "Protein (g)": 26,
+    "Fats (g)": 15
+  },
+  {
+    "Food": "Salmon",
+    "Calories (kcal)": 208,
+    "Protein (g)": 20,
+    "Fats (g)": 13
+  },
+  {
+    "Food": "Tuna",
+    "Calories (kcal)": 144,
+    "Protein (g)": 23,
+    "Fats (g)": 4.9
+  },
+  {
+    "Food": "Cod",
+    "Calories (kcal)": 82,
+    "Protein (g)": 18,
+    "Fats (g)": 0.7
+  },
+  {
+    "Food": "Tilapia",
+    "Calories (kcal)": 96,
+    "Protein (g)": 20,
+    "Fats (g)": 2
+  },
+  {
+    "Food": "Trout",
+    "Calories (kcal)": 168,
+    "Protein (g)": 22,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Sardines",
+    "Calories (kcal)": 208,
+    "Protein (g)": 25,
+    "Fats (g)": 11
+  },
+  {
+    "Food": "Mackerel",
+    "Calories (kcal)": 205,
+    "Protein (g)": 19,
+    "Fats (g)": 13.9
+  },
+  {
+    "Food": "Herring",
+    "Calories (kcal)": 158,
+    "Protein (g)": 18,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Halibut",
+    "Calories (kcal)": 111,
+    "Protein (g)": 22,
+    "Fats (g)": 2.3
+  },
+  {
+    "Food": "Catfish",
+    "Calories (kcal)": 105,
+    "Protein (g)": 18,
+    "Fats (g)": 3
+  },
+
+  {
+    "Food": "Bread",
+    "Calories (kcal)": 265,
+    "Protein (g)": 9,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Oats",
+    "Calories (kcal)": 389,
+    "Protein (g)": 16.9,
+    "Fats (g)": 6.9
+  },
+  {
+    "Food": "Quinoa",
+    "Calories (kcal)": 120,
+    "Protein (g)": 4.1,
+    "Fats (g)": 1.9
+  },
+  {
+    "Food": "Lentils",
+    "Calories (kcal)": 116,
+    "Protein (g)": 9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Chickpeas",
+    "Calories (kcal)": 164,
+    "Protein (g)": 8.9,
+    "Fats (g)": 2.6
+  },
+  {
+    "Food": "Spinach",
+    "Calories (kcal)": 23,
+    "Protein (g)": 2.9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Broccoli",
+    "Calories (kcal)": 55,
+    "Protein (g)": 3.7,
+    "Fats (g)": 0.6
+  },
+  {
+    "Food": "Carrot",
+    "Calories (kcal)": 41,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Cucumber",
+    "Calories (kcal)": 15,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Tomato",
+    "Calories (kcal)": 18,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Pepper",
+    "Calories (kcal)": 31,
+    "Protein (g)": 1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Cabbage",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.3,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Cauliflower",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Mushrooms",
+    "Calories (kcal)": 22,
+    "Protein (g)": 3.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Eggplant",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Apple",
+    "Calories (kcal)": 52,
+    "Protein (g)": 0.3,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Banana",
+    "Calories (kcal)": 89,
+    "Protein (g)": 1.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Orange",
+    "Calories (kcal)": 47,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Strawberry",
+    "Calories (kcal)": 32,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Grapes",
+    "Calories (kcal)": 69,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Mango",
+    "Calories (kcal)": 60,
+    "Protein (g)": 0.8,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Pineapple",
+    "Calories (kcal)": 50,
+    "Protein (g)": 0.5,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Watermelon",
+    "Calories (kcal)": 30,
+    "Protein (g)": 0.6,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Peach",
+    "Calories (kcal)": 39,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pear",
+    "Calories (kcal)": 57,
+    "Protein (g)": 0.4,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Beef",
+    "Calories (kcal)": 250,
+    "Protein (g)": 26,
+    "Fats (g)": 17
+  },
+  {
+    "Food": "Pork",
+    "Calories (kcal)": 242,
+    "Protein (g)": 27,
+    "Fats (g)": 14
+  },
+  {
+    "Food": "Lamb",
+    "Calories (kcal)": 294,
+    "Protein (g)": 25.6,
+    "Fats (g)": 21.4
+  },
+  {
+    "Food": "Turkey",
+    "Calories (kcal)": 189,
+    "Protein (g)": 29,
+    "Fats (g)": 7
+  },
+  {
+    "Food": "Duck",
+    "Calories (kcal)": 337,
+    "Protein (g)": 27,
+    "Fats (g)": 28
+  },
+  {
+    "Food": "Venison",
+    "Calories (kcal)": 158,
+    "Protein (g)": 30.2,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Goat",
+    "Calories (kcal)": 143,
+    "Protein (g)": 27,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Rabbit",
+    "Calories (kcal)": 173,
+    "Protein (g)": 33,
+    "Fats (g)": 3.5
+  },
+  {
+    "Food": "Bison",
+    "Calories (kcal)": 146,
+    "Protein (g)": 28.4,
+    "Fats (g)": 2.4
+  },
+  {
+    "Food": "Buffalo",
+    "Calories (kcal)": 99,
+    "Protein (g)": 21,
+    "Fats (g)": 1.8
+  },
+  {
+    "Food": "Chicken Breast",
+    "Calories (kcal)": 165,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Chicken Thigh",
+    "Calories (kcal)": 209,
+    "Protein (g)": 26,
+    "Fats (g)": 10
+  },
+  {
+    "Food": "Chicken Wings",
+    "Calories (kcal)": 203,
+    "Protein (g)": 30,
+    "Fats (g)": 8.1
+  },
+  {
+    "Food": "Chicken Drumstick",
+    "Calories (kcal)": 177,
+    "Protein (g)": 27,
+    "Fats (g)": 7.5
+  },
+  {
+    "Food": "Chicken Liver",
+    "Calories (kcal)": 136,
+    "Protein (g)": 21.4,
+    "Fats (g)": 4.8
+  },
+  {
+    "Food": "Chicken Gizzard",
+    "Calories (kcal)": 94,
+    "Protein (g)": 18,
+    "Fats (g)": 2.1
+  },
+  {
+    "Food": "Chicken Skin",
+    "Calories (kcal)": 454,
+    "Protein (g)": 9,
+    "Fats (g)": 40
+  },
+  {
+    "Food": "Roast Chicken",
+    "Calories (kcal)": 239,
+    "Protein (g)": 27.3,
+    "Fats (g)": 13.6
+  },
+  {
+    "Food": "Grilled Chicken",
+    "Calories (kcal)": 172,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Fried Chicken",
+    "Calories (kcal)": 290,
+    "Protein (g)": 26,
+    "Fats (g)": 15
+  },
+  {
+    "Food": "Salmon",
+    "Calories (kcal)": 208,
+    "Protein (g)": 20,
+    "Fats (g)": 13
+  },
+  {
+    "Food": "Tuna",
+    "Calories (kcal)": 144,
+    "Protein (g)": 23,
+    "Fats (g)": 4.9
+  },
+  {
+    "Food": "Cod",
+    "Calories (kcal)": 82,
+    "Protein (g)": 18,
+    "Fats (g)": 0.7
+  },
+  {
+    "Food": "Tilapia",
+    "Calories (kcal)": 96,
+    "Protein (g)": 20,
+    "Fats (g)": 2
+  },
+  {
+    "Food": "Trout",
+    "Calories (kcal)": 168,
+    "Protein (g)": 22,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Sardines",
+    "Calories (kcal)": 208,
+    "Protein (g)": 25,
+    "Fats (g)": 11
+  },
+  {
+    "Food": "Mackerel",
+    "Calories (kcal)": 205,
+    "Protein (g)": 19,
+    "Fats (g)": 13.9
+  },
+  {
+    "Food": "Herring",
+    "Calories (kcal)": 158,
+    "Protein (g)": 18,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Halibut",
+    "Calories (kcal)": 111,
+    "Protein (g)": 22,
+    "Fats (g)": 2.3
+  },
+  {
+    "Food": "Catfish",
+    "Calories (kcal)": 105,
+    "Protein (g)": 18,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Bread",
+    "Calories (kcal)": 265,
+    "Protein (g)": 9,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Oats",
+    "Calories (kcal)": 389,
+    "Protein (g)": 16.9,
+    "Fats (g)": 6.9
+  },
+  {
+    "Food": "Quinoa",
+    "Calories (kcal)": 120,
+    "Protein (g)": 4.1,
+    "Fats (g)": 1.9
+  },
+
+  {
+    "Food": "Lentils",
+    "Calories (kcal)": 116,
+    "Protein (g)": 9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Chickpeas",
+    "Calories (kcal)": 164,
+    "Protein (g)": 8.9,
+    "Fats (g)": 2.6
+  },
+  {
+    "Food": "Spinach",
+    "Calories (kcal)": 23,
+    "Protein (g)": 2.9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Broccoli",
+    "Calories (kcal)": 55,
+    "Protein (g)": 3.7,
+    "Fats (g)": 0.6
+  },
+  {
+    "Food": "Carrot",
+    "Calories (kcal)": 41,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Cucumber",
+    "Calories (kcal)": 15,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Tomato",
+    "Calories (kcal)": 18,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Pepper",
+    "Calories (kcal)": 31,
+    "Protein (g)": 1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Cabbage",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.3,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Cauliflower",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Mushrooms",
+    "Calories (kcal)": 22,
+    "Protein (g)": 3.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Eggplant",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Apple",
+    "Calories (kcal)": 52,
+    "Protein (g)": 0.3,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Banana",
+    "Calories (kcal)": 89,
+    "Protein (g)": 1.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Orange",
+    "Calories (kcal)": 47,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Strawberry",
+    "Calories (kcal)": 32,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Grapes",
+    "Calories (kcal)": 69,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Mango",
+    "Calories (kcal)": 60,
+    "Protein (g)": 0.8,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Pineapple",
+    "Calories (kcal)": 50,
+    "Protein (g)": 0.5,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Watermelon",
+    "Calories (kcal)": 30,
+    "Protein (g)": 0.6,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Peach",
+    "Calories (kcal)": 39,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pear",
+    "Calories (kcal)": 57,
+    "Protein (g)": 0.4,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Beef",
+    "Calories (kcal)": 250,
+    "Protein (g)": 26,
+    "Fats (g)": 17
+  },
+  {
+    "Food": "Pork",
+    "Calories (kcal)": 242,
+    "Protein (g)": 27,
+    "Fats (g)": 14
+  },
+  {
+    "Food": "Lamb",
+    "Calories (kcal)": 294,
+    "Protein (g)": 25.6,
+    "Fats (g)": 21.4
+  },
+  {
+    "Food": "Turkey",
+    "Calories (kcal)": 189,
+    "Protein (g)": 29,
+    "Fats (g)": 7
+  },
+  {
+    "Food": "Duck",
+    "Calories (kcal)": 337,
+    "Protein (g)": 27,
+    "Fats (g)": 28
+  },
+  {
+    "Food": "Venison",
+    "Calories (kcal)": 158,
+    "Protein (g)": 30.2,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Goat",
+    "Calories (kcal)": 143,
+    "Protein (g)": 27,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Rabbit",
+    "Calories (kcal)": 173,
+    "Protein (g)": 33,
+    "Fats (g)": 3.5
+  },
+  {
+    "Food": "Bison",
+    "Calories (kcal)": 146,
+    "Protein (g)": 28.4,
+    "Fats (g)": 2.4
+  },
+  {
+    "Food": "Buffalo",
+    "Calories (kcal)": 99,
+    "Protein (g)": 21,
+    "Fats (g)": 1.8
+  },
+  {
+    "Food": "Chicken Breast",
+    "Calories (kcal)": 165,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Chicken Thigh",
+    "Calories (kcal)": 209,
+    "Protein (g)": 26,
+    "Fats (g)": 10
+  },
+  {
+    "Food": "Chicken Wings",
+    "Calories (kcal)": 203,
+    "Protein (g)": 30,
+    "Fats (g)": 8.1
+  },
+  {
+    "Food": "Chicken Drumstick",
+    "Calories (kcal)": 177,
+    "Protein (g)": 27,
+    "Fats (g)": 7.5
+  },
+  {
+    "Food": "Chicken Liver",
+    "Calories (kcal)": 136,
+    "Protein (g)": 21.4,
+    "Fats (g)": 4.8
+  },
+  {
+    "Food": "Chicken Gizzard",
+    "Calories (kcal)": 94,
+    "Protein (g)": 18,
+    "Fats (g)": 2.1
+  },
+  {
+    "Food": "Chicken Skin",
+    "Calories (kcal)": 454,
+    "Protein (g)": 9,
+    "Fats (g)": 40
+  },
+  {
+    "Food": "Roast Chicken",
+    "Calories (kcal)": 239,
+    "Protein (g)": 27.3,
+    "Fats (g)": 13.6
+  },
+  {
+    "Food": "Grilled Chicken",
+    "Calories (kcal)": 172,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Fried Chicken",
+    "Calories (kcal)": 290,
+    "Protein (g)": 26,
+    "Fats (g)": 15
+  },
+  {
+    "Food": "Salmon",
+    "Calories (kcal)": 208,
+    "Protein (g)": 20,
+    "Fats (g)": 13
+  },
+  {
+    "Food": "Tuna",
+    "Calories (kcal)": 144,
+    "Protein (g)": 23,
+    "Fats (g)": 4.9
+  },
+  {
+    "Food": "Cod",
+    "Calories (kcal)": 82,
+    "Protein (g)": 18,
+    "Fats (g)": 0.7
+  },
+  {
+    "Food": "Tilapia",
+    "Calories (kcal)": 96,
+    "Protein (g)": 20,
+    "Fats (g)": 2
+  },
+  {
+    "Food": "Trout",
+    "Calories (kcal)": 168,
+    "Protein (g)": 22,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Sardines",
+    "Calories (kcal)": 208,
+    "Protein (g)": 25,
+    "Fats (g)": 11
+  },
+  {
+    "Food": "Mackerel",
+    "Calories (kcal)": 205,
+    "Protein (g)": 19,
+    "Fats (g)": 13.9
+  },
+  {
+    "Food": "Herring",
+    "Calories (kcal)": 158,
+    "Protein (g)": 18,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Halibut",
+    "Calories (kcal)": 111,
+    "Protein (g)": 22,
+    "Fats (g)": 2.3
+  },
+  {
+    "Food": "Catfish",
+    "Calories (kcal)": 105,
+    "Protein (g)": 18,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Bread",
+    "Calories (kcal)": 265,
+    "Protein (g)": 9,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Oats",
+    "Calories (kcal)": 389,
+    "Protein (g)": 16.9,
+    "Fats (g)": 6.9
+  },
+  {
+    "Food": "Quinoa",
+    "Calories (kcal)": 120,
+    "Protein (g)": 4.1,
+    "Fats (g)": 1.9
+  },
+  {
+    "Food": "Corn",
+    "Calories (kcal)": 96,
+    "Protein (g)": 3.4,
+    "Fats (g)": 1.5
+  },
+  {
+    "Food": "Lentils",
+    "Calories (kcal)": 116,
+    "Protein (g)": 9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Chickpeas",
+    "Calories (kcal)": 164,
+    "Protein (g)": 8.9,
+    "Fats (g)": 2.6
+  },
+  {
+    "Food": "Spinach",
+    "Calories (kcal)": 23,
+    "Protein (g)": 2.9,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Broccoli",
+    "Calories (kcal)": 55,
+    "Protein (g)": 3.7,
+    "Fats (g)": 0.6
+  },
+  {
+    "Food": "Carrot",
+    "Calories (kcal)": 41,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Cucumber",
+    "Calories (kcal)": 15,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Tomato",
+    "Calories (kcal)": 18,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Pepper",
+    "Calories (kcal)": 31,
+    "Protein (g)": 1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Cabbage",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.3,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Cauliflower",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Mushrooms",
+    "Calories (kcal)": 22,
+    "Protein (g)": 3.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Eggplant",
+    "Calories (kcal)": 25,
+    "Protein (g)": 1,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Apple",
+    "Calories (kcal)": 52,
+    "Protein (g)": 0.3,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Banana",
+    "Calories (kcal)": 89,
+    "Protein (g)": 1.1,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Orange",
+    "Calories (kcal)": 47,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Strawberry",
+    "Calories (kcal)": 32,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Grapes",
+    "Calories (kcal)": 69,
+    "Protein (g)": 0.7,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Mango",
+    "Calories (kcal)": 60,
+    "Protein (g)": 0.8,
+    "Fats (g)": 0.4
+  },
+  {
+    "Food": "Pineapple",
+    "Calories (kcal)": 50,
+    "Protein (g)": 0.5,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Watermelon",
+    "Calories (kcal)": 30,
+    "Protein (g)": 0.6,
+    "Fats (g)": 0.2
+  },
+  {
+    "Food": "Peach",
+    "Calories (kcal)": 39,
+    "Protein (g)": 0.9,
+    "Fats (g)": 0.3
+  },
+  {
+    "Food": "Pear",
+    "Calories (kcal)": 57,
+    "Protein (g)": 0.4,
+    "Fats (g)": 0.1
+  },
+  {
+    "Food": "Beef",
+    "Calories (kcal)": 250,
+    "Protein (g)": 26,
+    "Fats (g)": 17
+  },
+  {
+    "Food": "Pork",
+    "Calories (kcal)": 242,
+    "Protein (g)": 27,
+    "Fats (g)": 14
+  },
+  {
+    "Food": "Lamb",
+    "Calories (kcal)": 294,
+    "Protein (g)": 25.6,
+    "Fats (g)": 21.4
+  },
+  {
+    "Food": "Turkey",
+    "Calories (kcal)": 189,
+    "Protein (g)": 29,
+    "Fats (g)": 7
+  },
+  {
+    "Food": "Duck",
+    "Calories (kcal)": 337,
+    "Protein (g)": 27,
+    "Fats (g)": 28
+  },
+  {
+    "Food": "Venison",
+    "Calories (kcal)": 158,
+    "Protein (g)": 30.2,
+    "Fats (g)": 3.2
+  },
+  {
+    "Food": "Goat",
+    "Calories (kcal)": 143,
+    "Protein (g)": 27,
+    "Fats (g)": 3
+  },
+  {
+    "Food": "Rabbit",
+    "Calories (kcal)": 173,
+    "Protein (g)": 33,
+    "Fats (g)": 3.5
+  },
+  {
+    "Food": "Bison",
+    "Calories (kcal)": 146,
+    "Protein (g)": 28.4,
+    "Fats (g)": 2.4
+  },
+  {
+    "Food": "Buffalo",
+    "Calories (kcal)": 99,
+    "Protein (g)": 21,
+    "Fats (g)": 1.8
+  },
+  {
+    "Food": "Chicken Breast",
+    "Calories (kcal)": 165,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Chicken Thigh",
+    "Calories (kcal)": 209,
+    "Protein (g)": 26,
+    "Fats (g)": 10
+  },
+  {
+    "Food": "Chicken Wings",
+    "Calories (kcal)": 203,
+    "Protein (g)": 30,
+    "Fats (g)": 8.1
+  },
+  {
+    "Food": "Chicken Drumstick",
+    "Calories (kcal)": 177,
+    "Protein (g)": 27,
+    "Fats (g)": 7.5
+  },
+  {
+    "Food": "Chicken Liver",
+    "Calories (kcal)": 136,
+    "Protein (g)": 21.4,
+    "Fats (g)": 4.8
+  },
+  {
+    "Food": "Chicken Gizzard",
+    "Calories (kcal)": 94,
+    "Protein (g)": 18,
+    "Fats (g)": 2.1
+  },
+  {
+    "Food": "Chicken Skin",
+    "Calories (kcal)": 454,
+    "Protein (g)": 9,
+    "Fats (g)": 40
+  },
+  {
+    "Food": "Roast Chicken",
+    "Calories (kcal)": 239,
+    "Protein (g)": 27.3,
+    "Fats (g)": 13.6
+  },
+  {
+    "Food": "Grilled Chicken",
+    "Calories (kcal)": 172,
+    "Protein (g)": 31,
+    "Fats (g)": 3.6
+  },
+  {
+    "Food": "Fried Chicken",
+    "Calories (kcal)": 290,
+    "Protein (g)": 26,
+    "Fats (g)": 15
+  },
+  {
+    "Food": "Salmon",
+    "Calories (kcal)": 208,
+    "Protein (g)": 20,
+    "Fats (g)": 13
+  },
+  {
+    "Food": "Tuna",
+    "Calories (kcal)": 144,
+    "Protein (g)": 23,
+    "Fats (g)": 4.9
+  },
+  {
+    "Food": "Cod",
+    "Calories (kcal)": 82,
+    "Protein (g)": 18,
+    "Fats (g)": 0.7
+  },
+  {
+    "Food": "Tilapia",
+    "Calories (kcal)": 96,
+    "Protein (g)": 20,
+    "Fats (g)": 2
+  },
+  {
+    "Food": "Trout",
+    "Calories (kcal)": 168,
+    "Protein (g)": 22,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Sardines",
+    "Calories (kcal)": 208,
+    "Protein (g)": 25,
+    "Fats (g)": 11
+  },
+  {
+    "Food": "Mackerel",
+    "Calories (kcal)": 205,
+    "Protein (g)": 19,
+    "Fats (g)": 13.9
+  },
+  {
+    "Food": "Herring",
+    "Calories (kcal)": 158,
+    "Protein (g)": 18,
+    "Fats (g)": 9
+  },
+  {
+    "Food": "Halibut",
+    "Calories (kcal)": 111,
+    "Protein (g)": 22,
+    "Fats (g)": 2.3
+  },
+  {
+    "Food": "Catfish",
+    "Calories (kcal)": 105,
+    "Protein (g)": 18,
+    "Fats (g)": 3
+  }
+]
+}

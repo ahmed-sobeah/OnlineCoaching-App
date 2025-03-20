@@ -6,5 +6,6 @@ class AssetsManger{
   static const String facebook='${base}facebook.png';
   static const String workoutIcon='${base}workout_icon.png';
   static const String activityIcon='${base}Activity_icon.png';
+  static const String foodList='${base}csvjson.json';
 
 }
