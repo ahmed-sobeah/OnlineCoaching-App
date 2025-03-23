@@ -151,7 +151,7 @@ class _LoginState extends State<Login> {
 
       );
       UserDm.currentUser = await readUserFromFireStore(credential.user!.uid);
-      if(UserDm.currentUser!.id== "35HR8LyJuyLlmF8JYtXDtccwvun1"){
+      if(UserDm.currentUser!.id== "ESnRENStQJSbuHfaKdguHzaMben1"){
         Navigator.pushReplacementNamed(context, RoutesManger.admin);
       }else {
         Navigator.pushReplacementNamed(context, RoutesManger.home);

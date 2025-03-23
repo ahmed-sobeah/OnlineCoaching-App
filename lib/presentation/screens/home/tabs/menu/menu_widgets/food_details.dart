@@ -15,7 +15,6 @@ class FoodDetails extends StatefulWidget {
 }
 
 class _FoodDetailsState extends State<FoodDetails> {
-  bool visible = false;
   late TextEditingController weightController;
   @override
   void initState() {
@@ -32,70 +31,87 @@ class _FoodDetailsState extends State<FoodDetails> {
       ),
       body: Padding(
         padding:  REdgeInsets.all(8.0),
-        child: Container(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-
-            children: [
-              Center(
-                child: Container(
-                  padding: REdgeInsets.only(right: 20),
-                  width: 388.w,
-                  height: 180.h,
-                  decoration: BoxDecoration(color: ColorsManger.darkGrey,borderRadius: BorderRadius.circular(8.r),image: DecorationImage(image: NetworkImage('https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600'),fit: BoxFit.fill)),
-
-                ),
-              ),
-              SizedBox(height: 20.h,width: double.infinity,),
-
-              Text('Nutrients:',style: AppStyles.continueWith,),
-              Row(
-                children: [
-                  Text("Calories Per 100gm:",style: AppStyles.register,),
-                  SizedBox(width: 20.w,),
-                  Text('${widget.food[widget.index]["Calories (kcal)"]} Kcal',style: AppStyles.continueWith,)
-                ],
-              ),
-              Row(
-                children: [
-                  Text("Protein Per 100gm:",style:AppStyles.register,),
-                  SizedBox(width: 20.w,),
-                  Text('${widget.food[widget.index]["Protein (g)"]} gm',style: AppStyles.continueWith,)
-                ],
-              ),
-              Row(
-                children: [
-                  Text("Fats Per 100gm:",style: AppStyles.register,),
-                  SizedBox(width: 20.w,),
-                  Text('${widget.food[widget.index]["Fats (g)"]} gm',style: AppStyles.continueWith,)
-                ],
-              ),
-              SizedBox(height: 30.h,),
-              Text('Enter Custom weight',style: AppStyles.continueWith,),
-              SizedBox(height: 5.h,),
-              Padding(
-                padding:  REdgeInsets.all(8.0),
-                child: CustomTextField(hintText: 'Enter In Grams',keyboardType: TextInputType.numberWithOptions(signed: false,decimal: true),controller: weightController,),
-              ),
-              SizedBox(height: 5.h,),
-              Center(
-                child: InkWell(
-                  onTap: () {
-                      visible =true;
-                      setState(() {
-
-                      });
-                  },
+        child: SingleChildScrollView(
+          child: Container(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+          
+              children: [
+                Center(
                   child: Container(
+                    padding: REdgeInsets.only(right: 20),
                     width: 388.w,
-                    height: 50.h,
-                    decoration: BoxDecoration(color: ColorsManger.violet,borderRadius: BorderRadius.circular(20.r)),
-                      child: Center(child: Text('Submit',style:AppStyles.workoutTitle,))),
+                    height: 100.h,
+
+
+                  ),
                 ),
-              ),
-              // Visibility(visible: visible,child: buildAnswer())
-              buildAnswer()
-            ],
+                SizedBox(height: 20.h,width: double.infinity,),
+          
+                Text('Nutrients:',style: AppStyles.continueWith,),
+                Row(
+                  children: [
+                    Text("Calories Per 100gm:",style: AppStyles.register,),
+                    SizedBox(width: 20.w,),
+                    Text('${widget.food[widget.index]["Calories (kcal)"]} Kcal',style: AppStyles.continueWith,)
+                  ],
+                ),
+                Row(
+                  children: [
+                    Text("Protein Per 100gm:",style:AppStyles.register,),
+                    SizedBox(width: 20.w,),
+                    Text('${widget.food[widget.index]["Protein (g)"]} gm',style: AppStyles.continueWith,)
+                  ],
+                ),
+                Row(
+                  children: [
+                    Text("Fats Per 100gm:",style: AppStyles.register,),
+                    SizedBox(width: 20.w,),
+                    Text('${widget.food[widget.index]["Fats (g)"]} gm',style: AppStyles.continueWith,)
+                  ],
+                ),
+                SizedBox(height: 30.h,),
+                Text('Enter Custom weight',style: AppStyles.continueWith,),
+                SizedBox(height: 5.h,),
+                Padding(
+                  padding:  REdgeInsets.all(8.0),
+                  child: CustomTextField(hintText: 'Enter In Grams',keyboardType: TextInputType.numberWithOptions(signed: false,decimal: true),controller: weightController,),
+                ),
+                SizedBox(height: 5.h,),
+                Center(
+                  child: InkWell(
+                    onTap: () {
+                        setState(() {
+          
+                        });
+                    },
+                    child: Container(
+                      width: 388.w,
+                      height: 50.h,
+                      decoration: BoxDecoration(color: ColorsManger.violet,borderRadius: BorderRadius.circular(20.r)),
+                        child: Center(child: Text('Calculate',style:AppStyles.workoutTitle,))),
+                  ),
+                ),
+
+                buildAnswer(),
+                SizedBox(height:  20.h),
+                Center(
+                  child: InkWell(
+                    onTap: () {
+          
+                      setState(() {
+          
+                      });
+                    },
+                    child: Container(
+                        width: 388.w,
+                        height: 50.h,
+                        decoration: BoxDecoration(color: ColorsManger.violet,borderRadius: BorderRadius.circular(20.r)),
+                        child: Center(child: Text('Submit',style:AppStyles.workoutTitle,))),
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),

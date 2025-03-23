@@ -24,7 +24,6 @@ class _WorkoutDetailsState extends State<WorkoutDetails> {
     super.initState();
     _controller = YoutubePlayerController(
       params: const  YoutubePlayerParams(
-
         showControls: true,
         mute: true,
         showFullscreenButton: true,

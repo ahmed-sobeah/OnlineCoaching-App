@@ -17,5 +17,6 @@ class AppStyles{
   static TextStyle title =GoogleFonts.poppins(color: ColorsManger.black,fontSize: 20.sp,fontWeight: FontWeight.w600);
   static TextStyle workoutTitle =GoogleFonts.poppins(color: ColorsManger.white,fontSize: 16.sp,fontWeight: FontWeight.w600);
   static TextStyle date =GoogleFonts.poppins(color: ColorsManger.black,fontSize: 12.sp,fontWeight: FontWeight.w400);
+  static TextStyle activityItems =GoogleFonts.poppins(color: ColorsManger.white,fontSize: 12.sp,fontWeight: FontWeight.w400);
 
 }
