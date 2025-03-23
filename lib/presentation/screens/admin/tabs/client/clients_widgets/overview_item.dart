@@ -13,9 +13,9 @@ class OverviewItem extends StatelessWidget {
       children: [
         Column(
           children: [
-            Text('$title',style: AppStyles.date,),
+            Text('$title',style: AppStyles.continueWith,),
             SizedBox(height:  10.h),
-            Text('$content',style: AppStyles.date.copyWith(fontWeight: FontWeight.w300),)
+            Text('$content',style: AppStyles.continueWith,)
           ],
         )
       ],

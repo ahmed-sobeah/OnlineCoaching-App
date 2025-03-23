@@ -30,12 +30,12 @@ String? id;
 class _AddExerciseToClientState extends State<AddExerciseToClient> {
   DateTime selectedDate =DateTime.now();
   List<ExerciseDm> exerciseList = [];
-  TextEditingController setsController =TextEditingController();
-  TextEditingController repsController =TextEditingController();
-  TextEditingController workoutDurationSecController =TextEditingController();
-  TextEditingController workoutDurationMinController =TextEditingController();
-  TextEditingController restSecController =TextEditingController();
-  TextEditingController restMinController =TextEditingController();
+  TextEditingController setsController =TextEditingController(text: '0');
+  TextEditingController repsController =TextEditingController(text: '0');
+  TextEditingController workoutDurationSecController =TextEditingController(text: '0');
+  TextEditingController workoutDurationMinController =TextEditingController(text: '0');
+  TextEditingController restSecController =TextEditingController(text: '0');
+  TextEditingController restMinController =TextEditingController(text: '0');
   GlobalKey<FormState> formKey =GlobalKey();
   String videoId = '';
   String workoutTitle = '';
@@ -62,8 +62,6 @@ class _AddExerciseToClientState extends State<AddExerciseToClient> {
                 onTap: () {
                   videoId = exerciseList[index].videoId;
                   workoutTitle = exerciseList[index].workoutTitle;
-                  print(videoId);
-                  print(workoutTitle);
               
                 },
                 child: ExerciseItemForAdmin(exerciseDm: exerciseList[index],onDeletedTask: (){},index: index,))

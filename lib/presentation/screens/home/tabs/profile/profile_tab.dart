@@ -3,6 +3,7 @@ import 'package:ali_nasser_online_coaching_app/core/utils/colors_manger.dart';
 import 'package:ali_nasser_online_coaching_app/core/utils/routes_manger.dart';
 import 'package:ali_nasser_online_coaching_app/database_manger/model/user_dm.dart';
 import 'package:ali_nasser_online_coaching_app/presentation/screens/admin/tabs/client/clients_widgets/overview_item.dart';
+import 'package:ali_nasser_online_coaching_app/presentation/screens/home/tabs/profile/widgets/profile_picture_upload.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -24,10 +25,15 @@ class ProfileTab extends StatelessWidget {
           children: [
             Row(),
             SizedBox(height:  30.h),
-            Container(
-              width: 88.w,
-              height: 88.w,
-              decoration: BoxDecoration(color: ColorsManger.darkGrey,borderRadius: BorderRadius.circular(100.r)),
+            InkWell(
+              onTap: () {
+                Navigator.push(context, MaterialPageRoute(builder: (context) =>ProfilePictureUpload() ,));
+              },
+              child: Container(
+                width: 88.w,
+                height: 88.w,
+                decoration: BoxDecoration(color: ColorsManger.darkGrey,borderRadius: BorderRadius.circular(100.r)),
+              ),
             ),
             Text('${UserDm.currentUser!.fullName}',style: AppStyles.rememberMe,),
             Text('${UserDm.currentUser!.email}',style: AppStyles.enterYourEmail,),
@@ -83,6 +89,24 @@ class ProfileTab extends StatelessWidget {
                 )
               ],
             ),
+            Padding(
+              padding: const EdgeInsets.only(left: 8.0),
+              child: Row(
+                children: [
+                  Icon(Icons.person,color: ColorsManger.violet,size: 40.sp,),
+                  SizedBox(width: 5.w,),
+                  Text('Account',style: AppStyles.continueWith,)
+                ],
+              ),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Container(
+                width: double.infinity,
+                height: 2.h,
+                color: ColorsManger.grey,
+              ),
+            ),
             InkWell(
               onTap: () async{
                 await FirebaseAuth.instance.signOut();
@@ -92,16 +116,24 @@ class ProfileTab extends StatelessWidget {
                 padding: const EdgeInsets.only(left: 8.0),
                 child: Row(
                   children: [
-                    Icon(Icons.logout_rounded,color: ColorsManger.red,size: 20.sp,),
+                    Icon(Icons.logout_rounded,color: ColorsManger.red,size: 40.sp,),
                     SizedBox(width: 5.w,),
                     Text('Logout',style: AppStyles.continueWith,)
                   ],
                 ),
               ),
-            )
+            ),
           ],
 
         ),
+      ),
+    );
+  }
+  Widget buildCard(){
+    return Card(
+      child: Container(
+        height: 200.h,
+        width: 200.w,
       ),
     );
   }

@@ -8,4 +8,5 @@ class ColorsManger{
  static const Color black = Color(0xFF1E1E1E);
  static const Color blue = Color(0xFF007DFC);
  static const Color red = Color(0xFFDC1010);
+ static const Color yellow = Color(0xFFFCD400);
 }
